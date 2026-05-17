@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`b2eb5da`](https://github.com/stdlib-js/stdlib/commit/b2eb5da5b94858e0d40f62ebe33ef5f52d398acc) - **docs:** update related packages sections [(#12164)](https://github.com/stdlib-js/stdlib/pull/12164) _(by stdlib-bot)_
 -   [`5aadc76`](https://github.com/stdlib-js/stdlib/commit/5aadc76d03d8e3c511de2f14131be73dfe118af9) - **bench:** refactor to use string interpolation in `ndarray` [(#11445)](https://github.com/stdlib-js/stdlib/pull/11445) _(by Karan Anand)_
 
 </details>
